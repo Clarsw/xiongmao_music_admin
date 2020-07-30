@@ -1,5 +1,10 @@
 
+# xiongmao_music_adimn
 
+
+基于vue-electron+node开发的具有音乐推荐功能的音乐网站，该部分为前台管理员使用部分，可进行系统用户管理、用户管理、类型管理、歌曲管理、歌手管理、歌单管理、专辑管理、系统管理和推荐管理等功能。。
+
+前台音乐平台部分项目地址为https://github.com/Clarsw/xiongmao_music_electron
 # To start
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
